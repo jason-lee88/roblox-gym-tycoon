@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://t7.rbxcdn.com/18ce8e64919e5b213a38e67f9bc18516" alt="Roblox Gym Tycoon Thumbnail" height="224" />
+    <img src="https://t7.rbxcdn.com/18ce8e64919e5b213a38e67f9bc18516" alt="Roblox Gym Tycoon Thumbnail" height="224">
 </div>
 
 <hr />
@@ -27,7 +27,7 @@ Roblox games are built under a simplified object-oriented implementation of the 
 * Utilized many software-related principles on an intro-level such as classes, objects, properties, hierarchy, command line, functions, events, server-sided & client-sided interactions, data persistence across sessions through data stores, graphical user interfaces, Http services, and more
 
 ## Documentation
-Documentation containing Roblox's pre-defined classes, objects, functions, events, and other features can be found [here.](developer.roblox.com)
+Documentation containing Roblox's pre-defined classes, objects, functions, events, and other features can be found [here.](https://developer.roblox.com)
 
 ## Notes
 * This project is very outdated (last updated May 2017). It is extremely likely that game engine updates over time by Roblox have bugged many features of the game. Please expect game features to be faulty/nonfunctional.
