@@ -24,7 +24,7 @@ Roblox games are built under a simplified object-oriented implementation of the 
 
 * My first full completed project
 * Exposure to object-oriented programming using pre-defined classes
-* Utilized many software-related principles on an intro-level such as classes, objects, properties, hierarchy, command line, functions, events, server-sided & client-sided interactions, data persistence across sessions through data stores, graphical user interfaces, Http services, and more
+* Utilized many software-related principles on an intro-level such as classes, objects, properties, hierarchy, control flow, command line, functions, events, server-sided & client-sided interactions, data persistence across sessions through data stores, graphical user interfaces, Http services, and more
 
 ## Documentation
 Documentation containing Roblox's pre-defined classes, objects, functions, events, and other features can be found [here.](https://developer.roblox.com)
